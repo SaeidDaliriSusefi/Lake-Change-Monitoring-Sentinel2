@@ -10,4 +10,4 @@ The purpose of this project is to analyze the temporal changes in lake area, hel
 
 ## Example Outputs
 
-![image alt](https://github.com/SaeidDaliriSusefi/Lake-Monitoring-Modis/blob/93f692f3a74ce9533a79dca36b00ba9e73c87ac3/Images/urmia%20lake_Area.png)
+![image alt](https://github.com/SaeidDaliriSusefi/Lake-Monitoring-Sentinel2/blob/02f07d4106ebd3a8828e802e204859c5dbd1450f/Images/Lake_Area%2C.png)
