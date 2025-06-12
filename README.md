@@ -10,4 +10,4 @@ The purpose of this project is to analyze the temporal changes in lake area, hel
 
 ## Example Outputs
 
-![image alt](https://github.com/SaeidDaliriSusefi/Lake-Monitoring-Sentinel2/blob/02f07d4106ebd3a8828e802e204859c5dbd1450f/Images/Lake_Area%2C.png)
+![image alt](https://github.com/SaeidDaliriSusefi/Lake-Change-Monitoring-Sentinel2/blob/9dfdb81a6229993020c2ed20d6841ae3591d0be2/Images/download%20(9).png)
